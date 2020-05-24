@@ -1,5 +1,5 @@
 
-# FireStoreChatApp | Firebase Chat Application Open source
+# FireStoreChatApp with push notification | Firebase Chat Application Open source
 Make sure to connect with your firebase and add google-services.json file in app directory.   
 Than run the app and you are good to go   
 
