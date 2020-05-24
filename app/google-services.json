@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "754747234587",
+    "firebase_url": "https://firestorechatapp-3da04.firebaseio.com",
+    "project_id": "firestorechatapp-3da04",
+    "storage_bucket": "firestorechatapp-3da04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754747234587:android:5a52712a3ac34adcdedbbe",
+        "android_client_info": {
+          "package_name": "com.tectibet.firestorechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754747234587-4th1iob4erkt4skn60lhheo91gkmrlbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEsYbzUON44vrD4IfBu6iDdF5MROdGPNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754747234587-4th1iob4erkt4skn60lhheo91gkmrlbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
