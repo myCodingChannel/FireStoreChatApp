@@ -5,7 +5,7 @@ Than run the app and you are good to go
 
 # Tutorial Link   
 Push notification tutorial   
-![Click here](https://www.youtube.com/playlist?list=PLVW1e1FvhW64L2Lg5b2CPehBDBDzcjNmP)
+[Click here](https://www.youtube.com/playlist?list=PLVW1e1FvhW64L2Lg5b2CPehBDBDzcjNmP)
 
 
 # ScreenShot   
